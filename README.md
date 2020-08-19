@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there ✨👋✨
+
+Student in Electronic @ University of Pisa
+
+<img src="https://github.com/OkabeRintaro96/OkabeRintaro96/blob/master/PCB.PNG?raw=true">
+
+"AC Hertz"
 
 <!--
 **OkabeRintaro96/OkabeRintaro96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://github.com/OkabeRintaro96/OkabeRintaro96/master/PCB.PNG">
 
 Here are some ideas to get you started:
 
