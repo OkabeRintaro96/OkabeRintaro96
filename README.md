@@ -3,7 +3,6 @@
 Student in Electronic @ University of Pisa
 
 <img src="https://github.com/OkabeRintaro96/OkabeRintaro96/blob/master/PCB.PNG?raw=true">
-<img src="https://github.com/OkabeRintaro96/OkabeRintaro96/blob/master/robin.png?raw=true">
 
 <!--
 **OkabeRintaro96/OkabeRintaro96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
